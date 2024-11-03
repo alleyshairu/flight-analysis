@@ -1,0 +1,10 @@
+.venv
+data.zip
+mini.zip
+combined.csv
+combined_csv_v1.csv
+combined_csv_v2.csv
+data_extracted/
+data_combined/
+data_compressed/
+data
